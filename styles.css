@@ -3,4 +3,10 @@ body {
   margin: 0 auto;
 }
 
-.c
+h1 {
+  margin-bottom: 0;
+}
+
+.container {
+  background-color: gray;
+}
