@@ -1,7 +1,5 @@
 body {
-  width: 80vw;
-  display: flex;
-  justify-content: center;
+  margin: 3 rem auto;
 }
 
 h1 {
@@ -10,5 +8,5 @@ h1 {
 
 .container {
   display: block;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.05);
 }
