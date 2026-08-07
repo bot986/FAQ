@@ -1,5 +1,9 @@
 body {
-  margin: 3 rem auto;
+  display: flex;
+}
+
+main {
+  justify-content: cneter;
 }
 
 h1 {
