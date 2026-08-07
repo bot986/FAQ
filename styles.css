@@ -3,7 +3,7 @@ body {
 }
 
 main {
-  justify-content: cneter;
+  justify-self: center;
 }
 
 h1 {
@@ -11,6 +11,5 @@ h1 {
 }
 
 .container {
-  display: block;
   background-color: rgba(0, 0, 0, 0.05);
 }
